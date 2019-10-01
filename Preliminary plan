@@ -1,0 +1,15 @@
+
+Target: 1. Set up a model to predict whether a person makes over 50k a year.
+        2. Display useful information with any visulization library. (Matplotlib?)
+        
+Features:
+--continuous(6): age, fnlwgt, education-num, capital-gain, capital-loss, hours-per-week
+--discrete(8): workclass, education, marital-status, occupation, relationship, race, sex, native-country
+  
+Performace:  accuracy, AUC curve, confusion matrix
+
+Models:
+
+1. Set up Logic Regression and Random Foreset models as benchmark.
+2. Set up Deep Learning models and optimise the architecture.
+3. Further new or senior models if possible.
