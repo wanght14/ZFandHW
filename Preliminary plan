@@ -13,6 +13,6 @@ Models: Logic regression, Random forest, Deep nerual networks and other feasible
 Implementation:
 
 1. Data cleaning (Pandas?) and data visualization (Matplotlib?).
-2. Set up LR and RF models as benchmark (Sklearn, pytorch or tensorflow?).
+2. Set up LR and RF models as benchmark (Sklearn?).
 3. Set up DNN models and optimise the architecture (Sklearn, pytorch or tensorflow?).
 4. Further new or senior models if possible.
